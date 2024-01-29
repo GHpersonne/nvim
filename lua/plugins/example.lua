@@ -20,6 +20,11 @@ return {
     },
   },
 
+  {
+    "akinsho/toggleterm.nvim",
+    version = "*",
+    config = true,
+  },
   -- change trouble config
   {
     "folke/trouble.nvim",
